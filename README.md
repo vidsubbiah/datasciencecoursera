@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for the Data Science series
+Repository for the Data Science series.
